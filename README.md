@@ -6,5 +6,5 @@ Bu projede Half-Life oyunundaki tüm ses dosyaları ve kaplamaları oyunun oriji
 https://www.youtube.com/watch?v=zQ1p48jQczU
 
 ## Proje Yapımcıları:
-- ahm3texe
-- b0ntur
+- [ahm3texe](https://steamcommunity.com/id/ahm3texe/)
+- [b0ntur](https://steamcommunity.com/id/bontur/)
